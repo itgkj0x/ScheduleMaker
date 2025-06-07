@@ -99,7 +99,7 @@ def mkical(datelist):
     # 6時から7時の前で指定された日時でのEventを作成させる
 
 result = mkical(datelist)
-f = open('bite.ics', 'wb')
+f = open('result/bite.ics', 'wb')
 f.write(result)
 f.close()
 #  出た結果を icalファイルに書き込む
