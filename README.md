@@ -1,0 +1,2 @@
+# ScheduleMaker
+Pythonでical形式のデータを作成するツール
